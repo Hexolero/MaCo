@@ -1,0 +1,1127 @@
+[gd_scene load_steps=2 format=1]
+
+[ext_resource path="res://images/town_spring_day.tex" type="Texture" id=1]
+
+[node name="Node" type="Node"]
+
+[node name="0" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 0, 20, 20 )
+
+[node name="1" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 0, 20, 20 )
+
+[node name="2" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 0, 20, 20 )
+
+[node name="3" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 0, 20, 20 )
+
+[node name="4" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 0, 20, 20 )
+
+[node name="5" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 0, 20, 20 )
+
+[node name="6" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 0, 20, 20 )
+
+[node name="7" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 0, 20, 20 )
+
+[node name="8" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 0, 20, 20 )
+
+[node name="9" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 0, 20, 20 )
+
+[node name="10" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 0, 20, 20 )
+
+[node name="11" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 0, 20, 20 )
+
+[node name="12" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 0, 20, 20 )
+
+[node name="13" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 0, 20, 20 )
+
+[node name="14" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 0, 20, 20 )
+
+[node name="15" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 10 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 0, 20, 20 )
+
+[node name="16" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 20, 20, 20 )
+
+[node name="17" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 20, 20, 20 )
+
+[node name="18" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 20, 20, 20 )
+
+[node name="19" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 20, 20, 20 )
+
+[node name="20" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 20, 20, 20 )
+
+[node name="21" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 20, 20, 20 )
+
+[node name="22" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 20, 20, 20 )
+
+[node name="23" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 20, 20, 20 )
+
+[node name="24" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 20, 20, 20 )
+
+[node name="25" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 20, 20, 20 )
+
+[node name="26" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 20, 20, 20 )
+
+[node name="27" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 20, 20, 20 )
+
+[node name="28" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 20, 20, 20 )
+
+[node name="29" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 20, 20, 20 )
+
+[node name="30" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 20, 20, 20 )
+
+[node name="31" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 30 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 20, 20, 20 )
+
+[node name="32" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 40, 20, 20 )
+
+[node name="33" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 40, 20, 20 )
+
+[node name="34" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 40, 20, 20 )
+
+[node name="35" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 40, 20, 20 )
+
+[node name="36" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 40, 20, 20 )
+
+[node name="37" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 40, 20, 20 )
+
+[node name="38" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 40, 20, 20 )
+
+[node name="39" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 40, 20, 20 )
+
+[node name="40" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 40, 20, 20 )
+
+[node name="41" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 40, 20, 20 )
+
+[node name="42" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 40, 20, 20 )
+
+[node name="43" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 40, 20, 20 )
+
+[node name="44" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 40, 20, 20 )
+
+[node name="45" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 40, 20, 20 )
+
+[node name="46" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 40, 20, 20 )
+
+[node name="47" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 50 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 40, 20, 20 )
+
+[node name="48" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 60, 20, 20 )
+
+[node name="49" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 60, 20, 20 )
+
+[node name="50" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 60, 20, 20 )
+
+[node name="51" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 60, 20, 20 )
+
+[node name="52" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 60, 20, 20 )
+
+[node name="53" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 60, 20, 20 )
+
+[node name="54" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 60, 20, 20 )
+
+[node name="55" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 60, 20, 20 )
+
+[node name="56" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 60, 20, 20 )
+
+[node name="57" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 60, 20, 20 )
+
+[node name="58" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 60, 20, 20 )
+
+[node name="59" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 60, 20, 20 )
+
+[node name="60" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 60, 20, 20 )
+
+[node name="61" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 60, 20, 20 )
+
+[node name="62" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 60, 20, 20 )
+
+[node name="63" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 70 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 60, 20, 20 )
+
+[node name="64" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 80, 20, 20 )
+
+[node name="65" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 80, 20, 20 )
+
+[node name="66" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 80, 20, 20 )
+
+[node name="67" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 80, 20, 20 )
+
+[node name="68" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 80, 20, 20 )
+
+[node name="69" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 80, 20, 20 )
+
+[node name="70" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 80, 20, 20 )
+
+[node name="71" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 80, 20, 20 )
+
+[node name="72" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 80, 20, 20 )
+
+[node name="73" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 80, 20, 20 )
+
+[node name="74" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 80, 20, 20 )
+
+[node name="75" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 80, 20, 20 )
+
+[node name="76" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 80, 20, 20 )
+
+[node name="77" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 80, 20, 20 )
+
+[node name="78" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 80, 20, 20 )
+
+[node name="79" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 90 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 80, 20, 20 )
+
+[node name="80" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 100, 20, 20 )
+
+[node name="81" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 100, 20, 20 )
+
+[node name="82" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 100, 20, 20 )
+
+[node name="83" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 100, 20, 20 )
+
+[node name="84" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 100, 20, 20 )
+
+[node name="85" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 100, 20, 20 )
+
+[node name="86" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 100, 20, 20 )
+
+[node name="87" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 100, 20, 20 )
+
+[node name="88" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 100, 20, 20 )
+
+[node name="89" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 100, 20, 20 )
+
+[node name="90" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 100, 20, 20 )
+
+[node name="91" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 100, 20, 20 )
+
+[node name="92" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 100, 20, 20 )
+
+[node name="93" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 100, 20, 20 )
+
+[node name="94" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 100, 20, 20 )
+
+[node name="95" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 110 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 100, 20, 20 )
+
+[node name="96" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 120, 20, 20 )
+
+[node name="97" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 120, 20, 20 )
+
+[node name="98" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 120, 20, 20 )
+
+[node name="99" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 120, 20, 20 )
+
+[node name="100" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 120, 20, 20 )
+
+[node name="101" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 120, 20, 20 )
+
+[node name="102" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 120, 20, 20 )
+
+[node name="103" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 120, 20, 20 )
+
+[node name="104" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 120, 20, 20 )
+
+[node name="105" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 120, 20, 20 )
+
+[node name="106" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 120, 20, 20 )
+
+[node name="107" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 120, 20, 20 )
+
+[node name="108" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 120, 20, 20 )
+
+[node name="109" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 120, 20, 20 )
+
+[node name="110" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 120, 20, 20 )
+
+[node name="111" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 130 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 120, 20, 20 )
+
+[node name="112" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 140, 20, 20 )
+
+[node name="113" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 140, 20, 20 )
+
+[node name="114" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 140, 20, 20 )
+
+[node name="115" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 140, 20, 20 )
+
+[node name="116" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 140, 20, 20 )
+
+[node name="117" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 140, 20, 20 )
+
+[node name="118" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 140, 20, 20 )
+
+[node name="119" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 140, 20, 20 )
+
+[node name="120" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 140, 20, 20 )
+
+[node name="121" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 140, 20, 20 )
+
+[node name="122" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 140, 20, 20 )
+
+[node name="123" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 140, 20, 20 )
+
+[node name="124" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 140, 20, 20 )
+
+[node name="125" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 140, 20, 20 )
+
+[node name="126" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 140, 20, 20 )
+
+[node name="127" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 150 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 140, 20, 20 )
+
+[node name="128" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 160, 20, 20 )
+
+[node name="129" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 160, 20, 20 )
+
+[node name="130" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 160, 20, 20 )
+
+[node name="131" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 160, 20, 20 )
+
+[node name="132" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 160, 20, 20 )
+
+[node name="133" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 160, 20, 20 )
+
+[node name="134" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 160, 20, 20 )
+
+[node name="135" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 160, 20, 20 )
+
+[node name="136" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 160, 20, 20 )
+
+[node name="137" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 160, 20, 20 )
+
+[node name="138" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 160, 20, 20 )
+
+[node name="139" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 160, 20, 20 )
+
+[node name="140" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 160, 20, 20 )
+
+[node name="141" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 160, 20, 20 )
+
+[node name="142" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 160, 20, 20 )
+
+[node name="143" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 170 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 160, 20, 20 )
+
+[node name="144" type="Sprite" parent="."]
+
+transform/pos = Vector2( 10, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 0, 180, 20, 20 )
+
+[node name="145" type="Sprite" parent="."]
+
+transform/pos = Vector2( 30, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 20, 180, 20, 20 )
+
+[node name="146" type="Sprite" parent="."]
+
+transform/pos = Vector2( 50, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 40, 180, 20, 20 )
+
+[node name="147" type="Sprite" parent="."]
+
+transform/pos = Vector2( 70, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 60, 180, 20, 20 )
+
+[node name="148" type="Sprite" parent="."]
+
+transform/pos = Vector2( 90, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 80, 180, 20, 20 )
+
+[node name="149" type="Sprite" parent="."]
+
+transform/pos = Vector2( 110, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 100, 180, 20, 20 )
+
+[node name="150" type="Sprite" parent="."]
+
+transform/pos = Vector2( 130, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 120, 180, 20, 20 )
+
+[node name="151" type="Sprite" parent="."]
+
+transform/pos = Vector2( 150, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 140, 180, 20, 20 )
+
+[node name="152" type="Sprite" parent="."]
+
+transform/pos = Vector2( 170, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 160, 180, 20, 20 )
+
+[node name="153" type="Sprite" parent="."]
+
+transform/pos = Vector2( 190, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 180, 180, 20, 20 )
+
+[node name="154" type="Sprite" parent="."]
+
+transform/pos = Vector2( 210, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 200, 180, 20, 20 )
+
+[node name="155" type="Sprite" parent="."]
+
+transform/pos = Vector2( 230, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 220, 180, 20, 20 )
+
+[node name="156" type="Sprite" parent="."]
+
+transform/pos = Vector2( 250, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 240, 180, 20, 20 )
+
+[node name="157" type="Sprite" parent="."]
+
+transform/pos = Vector2( 270, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 260, 180, 20, 20 )
+
+[node name="158" type="Sprite" parent="."]
+
+transform/pos = Vector2( 290, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 280, 180, 20, 20 )
+
+[node name="159" type="Sprite" parent="."]
+
+transform/pos = Vector2( 310, 190 )
+texture = ExtResource( 1 )
+region = true
+region_rect = Rect2( 300, 180, 20, 20 )
+
+
